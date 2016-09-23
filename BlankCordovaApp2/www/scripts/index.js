@@ -16,6 +16,7 @@
         var element = document.getElementById("deviceready");
         element.innerHTML = 'Device Ready';
         element.className += ' ready';
+        //
     };
 
     function onPause() {
